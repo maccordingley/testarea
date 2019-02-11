@@ -195,3 +195,5 @@ printed. This created address can by included to your Arizen or not.
 [travis-url]: https://travis-ci.org/ZencashOfficial/arizen.svg?branch=master
 [codeclimate-img]: https://codeclimate.com/github/ZencashOfficial/arizen/badges/gpa.svg?style=flat-square
 [codeclimate-url]: https://codeclimate.com/github/ZencashOfficial/arizen
+
+
